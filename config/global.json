@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Igo App": {
+      "applicationId": "v0sufrrzgkMvVwdqlzYGr8cVDwNnPh9qnmrPUnr1",
+      "masterKey": "EOwYOuJgm7N8yTgjzKLQ5LefKBJ9hUzWY1TJs3uY"
+    },
+    "_default": {
+      "link": "Igo App"
+    }
+  }
+}
